@@ -1,16 +1,46 @@
-### Hi there 👋
+<h3 align = 'center'>Bienvenido a mi Github, soy Diego</h3>
 
-<!--
-**TheDiego845/TheDiego845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Bienvenido" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+@@ ./Desk @@
+
+🌐 Website: http://plomolife.com
+🧿 Discord: http://discord.gg/plomolife
+📩 Other contact form: plomolife@gmail.com
+```
+
+<div>
+  <div>
+  
+```diff
+Discord Profile
+```
+<!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/886670803234594856)](https://discord.com/users/710608592100917420) -->
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/710608592100917420?&animated=true&borderRadius=25px&idleMessage=Sin%20%ninguna%20actividad)](https://discord.com/users/608673181288628225)
+    
+    
+    
+```diff
+Mi página web
+```
+    
+```diff
+https://plomolife.com
+```
+    
+<hr>
+    
+
+
+### Estadisticas de mi perfil !
+
+![Snowflake107](https://github-readme-stats.vercel.app/api?username=TheDiego845&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![Snowflake107](https://github-readme-stats.vercel.app/api/top-langs?username=TheDiego845&show_icons=true&theme=tokyonight&layout=compact)
+    
+<hr>
